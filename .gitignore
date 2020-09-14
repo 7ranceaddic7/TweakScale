@@ -16,3 +16,4 @@
 /lib
 /Releases
 PluginData
+*.gitignore_*
